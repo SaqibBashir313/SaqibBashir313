@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 <!--
-**eranees/eranees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SaqibBashir313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Hey there 
 <a href="https://www.instagram.com/saqibbasheer313/">
-  <img align="left" alt="Saqib" width="200px" src="https://avatars.githubusercontent.com/u/99726488?v=4" />
+<!--   <img align="left" alt="Saqib" width="200px" src="https://avatars.githubusercontent.com/u/99726488?v=4" /> -->
 </a>
 <!-- <a href="https://discord.gg/">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
